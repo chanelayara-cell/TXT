@@ -1,0 +1,6 @@
+{
+  "name": "TextVoice Pro",
+  "description": "Studio voiceover AI Bahasa Indonesia dengan karakter suara alami, pengatur emosi, musik latar, dan ekspor audio & subtitle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
